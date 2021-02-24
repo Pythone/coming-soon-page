@@ -35,11 +35,13 @@ body {
 .topleft {
     top: 0;
     left: 16px;
+    color:red;
 }
 
 .bottomleft {
     margin-left: 16px;
     margin-top: 150px;
+    color:red;
 }
 
 .middle {
